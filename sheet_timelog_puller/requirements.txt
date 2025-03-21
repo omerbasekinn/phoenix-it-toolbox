@@ -1,0 +1,6 @@
+ttkbootstrap
+tkcalendar
+gspread
+pandas
+os
+tkinter
